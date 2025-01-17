@@ -13,13 +13,16 @@ FoodApp is a web-based application designed to help food enthusiasts find and ex
 - List ingredients with images and measurements.
 - Step-by-step cooking instructions.
 - Modern design with React and CSS modules.
+## Usage
 
-## Screenshots
-
-![FoodApp Screenshot](https://via.placeholder.com/800x400.png?text=Add+a+screenshot+here)
-
-## Tech Stack
-
+### Features
+- **Browse or Search**: Search for a recipe using its unique ID.
+- **View Recipe Details**, including:
+  - **Ingredients**: A list of ingredients with images and quantities.
+  - **Instructions**: Step-by-step cooking guidance.
+  - **Dietary Preferences**: Vegetarian and vegan options.
+  - **Preparation Info**: Learn about preparation time and servings.
+## Technologies Used
 - **Frontend:** React, CSS Modules
 - **API Integration:** Spoonacular API
 - **Styling:** CSS Modules for component-level styling
@@ -28,18 +31,19 @@ FoodApp is a web-based application designed to help food enthusiasts find and ex
   - Fetch API for data retrieval
 
 ## Installation
+Follow these steps to run the Todo-React application locally:
 
-Follow these steps to set up the project on your local machine.
+1. Clone the Repository:
+  - git clone https://github.com/RAMCHERLAANUSHA/FoodApp.git
+  - cd Todo-React/todo
+2. Install Dependencies: Make sure you have Node.js installed. Then, run:
+  - npm install
+3. Start the Development Server:
+  - npm run dev
+4. Open the App: Open your browser and navigate to:
+  - http://localhost:5173
 
 ### Prerequisites
 
-- Node.js installed (v16+ recommended)
+- Node.js installed
 - A valid API key from [Spoonacular API](https://spoonacular.com/food-api)
-
-### Steps
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/RAMCHERLAANUSHA/FoodApp.git
-   cd FoodApp
