@@ -14,8 +14,6 @@ FoodApp is a web-based application designed to help food enthusiasts find and ex
 - Step-by-step cooking instructions.
 - Modern design with React and CSS modules.
 ## Usage
-
-### Features
 - **Browse or Search**: Search for a recipe using its unique ID.
 - **View Recipe Details**, including:
   - **Ingredients**: A list of ingredients with images and quantities.
